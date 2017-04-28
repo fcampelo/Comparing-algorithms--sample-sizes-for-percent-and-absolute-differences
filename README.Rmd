@@ -2,7 +2,7 @@
 title: "Confidence interval for differences in performance of two algorithms"
 author: "Felipe Campelo"
 date: "September 30th, 2016"
-output: html_document
+output: pdf_document
 ---
 
 Let the following situation be defined:
